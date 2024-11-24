@@ -7,4 +7,4 @@ A simple NPM package for managing a to-do list.
 Install the package using NPM:
 
 ```bash
-npm install todo-list-manager
+npm install todo-list-manager-unique
