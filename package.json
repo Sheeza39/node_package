@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-manager-unique",
+  "version": "1.0.0",
+  "description": "A simple to-do list manager for NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["todo", "list", "tasks", "manager"],
+  "author": "sheeza323",
+  "license": "ISC"
+}
